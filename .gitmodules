@@ -1,0 +1,24 @@
+[submodule "lib/sc-flexy-datapoint-lib"]
+	path = lib/sc-flexy-datapoint-lib
+	url = git@github.com:hms-networks/sc-flexy-datapoint-lib.git
+[submodule "lib/sc-flexy-file-util-lib"]
+	path = lib/sc-flexy-file-util-lib
+	url = git@github.com:hms-networks/sc-flexy-file-util-lib.git
+[submodule "lib/sc-flexy-logger-lib"]
+	path = lib/sc-flexy-logger-lib
+	url = git@github.com:hms-networks/sc-flexy-logger-lib.git
+[submodule "lib/sc-flexy-config-file-lib"]
+	path = lib/sc-flexy-config-file-lib
+	url = git@github.com:hms-networks/sc-flexy-config-file-lib.git
+[submodule "lib/sc-flexy-json-lib"]
+	path = lib/sc-flexy-json-lib
+	url = git@github.com:hms-networks/sc-flexy-json-lib.git
+[submodule "lib/sc-flexy-tag-data-lib"]
+	path = lib/sc-flexy-tag-data-lib
+	url = git@github.com:hms-networks/sc-flexy-tag-data-lib.git
+[submodule "lib/sc-flexy-string-lib"]
+	path = lib/sc-flexy-string-lib
+	url = git@github.com:hms-networks/sc-flexy-string-lib.git
+[submodule "lib/sc-flexy-tag-info-lib"]
+	path = lib/sc-flexy-tag-info-lib
+	url = git@github.com:hms-networks/sc-flexy-tag-info-lib.git
