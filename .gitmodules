@@ -22,3 +22,5 @@
 [submodule "lib/sc-flexy-tag-info-lib"]
 	path = lib/sc-flexy-tag-info-lib
 	url = git@github.com:hms-networks/sc-flexy-tag-info-lib.git
+[submodule "lib/sc-flexy-tag-info-lib/"]
+	branch = buff_inc
